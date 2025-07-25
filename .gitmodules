@@ -1,0 +1,3 @@
+[submodule "DigisparkScripts"]
+	path = DigisparkScripts
+	url = https://github.com/Gadotti/DigisparkScripts
