@@ -1,6 +1,7 @@
  # Arduino Digispark
 Scripts para serem usados com Arduino Digispark, dispositivo que emula a interface de um teclado permitindo automatizar qualquer ação que seria realizado através de um teclado normal, porém a uma velocidade e precisão incomparáveis com a de qualquer ação manual.
 ![alt text](https://github.com/Gadotti/DigisparkScripts/blob/master/Digispark.jpg "The DigiSpark")
+![Pinout](digispark-pinout_QeJ1n4FNv3.png "Digispark Pinout")
 
 # Why this?
 Diferente de outros repositórios e scripts encontrados na rede, os scripts aqui armazenados utilizam uma bilbioteca intermediária mapeada pera o teclado modelo Pt-Br, referenciada nos scripts pela lib <DigiKeyboardPtBr>.
