@@ -6,6 +6,14 @@ Scripts para serem usados com Arduino Digispark, dispositivo que emula a interfa
 Diferente de outros repositórios e scripts encontrados na rede, os scripts aqui armazenados utilizam uma bilbioteca intermediária mapeada pera o teclado modelo Pt-Br, referenciada nos scripts pela lib <DigiKeyboardPtBr>.
 Não obtive sucesso utilizando outras soluções para o mapeamento, então a partir de um mapeamento realizado para o teclado alemão, desenvolvi sob demanda o mapeamento para o layout pt-BR.
 
+
+install Digistump avr boards:
+File > Preferences > Additional BoardsManager URL >  use the link:
+https://raw.githubusercontent.com/digistump/arduino-boards-index/master/package_digistump_index.json
+Then:
+Tools > boards > Digispark (Default - 16.5 MHz)
+
+
 # QuickStart
 Guia passo-a-passo para montar o ambiente de desenvolvimento.
 1. Instalar os drivers do arduino
